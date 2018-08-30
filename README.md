@@ -52,3 +52,9 @@ If your patch fixes a bug, please be sure there is an [issue](https://github.com
 In order to maintain the quality and integrity of the **hashcat** source tree, all pull requests must be reviewed and signed off by at least two [board members](https://github.com/orgs/hashcat/people) before being merged. The [project lead](https://github.com/jsteube) has the ultimate authority in deciding whether to accept or reject a pull request. Do not be discouraged if your pull request is rejected!
 
 ### Happy Cracking!
+
+
+Modify constants
+```sh
+vi OpenCL/inc_hash_constants.h
+```
