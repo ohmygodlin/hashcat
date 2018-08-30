@@ -16,6 +16,13 @@ $ git clone https://github.com/hashcat/hashcat.git
 Get a copy of the **OpenCL Headers** repository
 
 ```sh
+sudo apt-get install opencl-headers
+sudo apt-get install ocl-icd-libopencl1
+```
+
+OR
+
+```sh
 $ git submodule update --init
 ```
 

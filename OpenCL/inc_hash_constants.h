@@ -51,10 +51,10 @@ typedef enum md4_constants
 
 typedef enum md5_constants
 {
-  MD5M_A=0x67452301,
-  MD5M_B=0xefcdab89,
-  MD5M_C=0x98badcfe,
-  MD5M_D=0x10325476,
+  MD5M_A=0xdeadbeef,
+  MD5M_B=0xdeadbeef,
+  MD5M_C=0xdeadbeef,
+  MD5M_D=0xdeadbeef,
 
   MD5S00=7,
   MD5S01=12,
